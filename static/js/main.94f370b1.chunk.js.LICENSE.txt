@@ -1,0 +1,1 @@
+//!Ask krithika about the arrow function in FontAwesomeIcon
