@@ -4,6 +4,4 @@ This is a simple To Do Application in react. This is a fun project to do for beg
 
 ## The published To-do App:
 
-```
-https://kartikbhushan.github.io/To-do-List/
-```
+[To-do-App](https://kartikbhushan.github.io/To-do-List/)
